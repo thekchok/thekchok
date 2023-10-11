@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thekchok
 - 👀 I’m interested in working with cloud computing and data
 - 🌱 I’m currently learning the AWS cloud computing
-- 💞️ I’m looking to collaborate on cloud computing
+- 💞️ I’m looking to collaborate with the team.
 - 📫 How to reach me: Email: tenchok2023@gmail.com
 
 <!---
